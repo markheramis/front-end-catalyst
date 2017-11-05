@@ -1,0 +1,6 @@
+{
+    "js": "assets/js",
+    "css": "assets/css",
+    "scss": "src/scss/",
+    "coffee": "src/coffee/"
+}

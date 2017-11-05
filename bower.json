@@ -1,0 +1,20 @@
+{
+    "name": "BMD-Front",
+    "version": "1.0.0",
+    "authors": [
+        "Mark Heramis"
+    ],
+    "description": "",
+    "keywords": [
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*"
+    ],
+    "devDependencies": {
+    },
+    "resolutions": {
+    },
+    "dependencies": {
+    }
+}
