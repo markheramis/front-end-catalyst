@@ -1,6 +1,7 @@
 var gulp = require('gulp');
 gulp.task('watch', function () {
-    gulp.watch('src/php/**/*.php', ['php2html', 'reload']);
+    //gulp.watch('src/php/**/*.php', ['php2html', 'reload']);
+    gulp.watch('src/ejs/**/*.ejs',['ejs']);
     // Watch .html files
     gulp.watch('dist/*.html', ['reload']);
     // Watch .coffee files
